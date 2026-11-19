@@ -5,8 +5,9 @@
 - **À compléter** : ce que fait l'app, pour qui (Chloé, papa, maman ?),
   sur quel appareil elle sert surtout (iPhone ?).
 - Petite web app installable (PWA), interface en français, au tutoiement.
-- Publication prévue sur GitHub Pages (compte Womack82, adresse à fixer
-  quand le dépôt sera créé).
+- Publiée sur GitHub Pages (compte Womack82) :
+  - site : https://womack82.github.io/pb-chloe/
+  - dépôt : https://github.com/Womack82/pb-chloe (branche `main`, dossier racine)
 - Les améliorations à faire et déjà faites sont suivies dans `TODO.md`.
 
 ## Façon de travailler
